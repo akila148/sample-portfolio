@@ -1,0 +1,104 @@
+{
+  "main": {
+    "name": "Akila Thiraviyam",
+    "occupation": "ReactJS developer && an Artist",
+    "description": "Freelance ReactJS developer | Artist by passion | IT professional",
+    "image": "bg.jpg",
+    "bio": "I'm Akila, I'm a Full Stack ReactJS Developer. Currently working in an IT firm and also an artist by passion ",
+    "contactmessage": "Get in touch with me to receive further details, get your potraits done or anything else.",
+    "email": "akila148@gmail.com",
+    "phone": "+44 12 345 6789",
+    "address": {
+      "street": "123 Fake Street",
+      "city": "Chennai",
+      "state": "INDIA",
+      "zip": "ABC 123"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/akila.rani.75033/",
+        "className": "fa fa-facebook"
+      },
+      
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/akilathiraviyam/",
+        "className": "fa fa-instagram"
+      }
+      
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Anna Univ",
+        "degree": "B.E",
+        "graduated": "April 2013",
+        "description": "ECE"
+      }
+    ],
+    "work": [
+      {
+        "company": "BNPP",
+        "title": "Software Engineer",
+        "years": "August 2013 - Present",
+        "description": "Unix | AUtosys | Oracle"
+      }
+      
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "20%"
+      },
+      {
+        "name": "CSS",
+        "level": "60%"
+      },
+      {
+        "name": "Git",
+        "level": "30%"
+      },
+      
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Potrait",
+        "category": "Pencil Sketch",
+        "image": "IMG_7890.JPG",
+        "url": "https://www.instagram.com/p/CEFPUpfJFvL/"
+      },
+      {
+        "title": "Scenery",
+        "category": "Water colour",
+        "image": "IMG_2632.JPG",
+        "url": "https://www.instagram.com/p/CEw0yxlAQ1e/"
+      }
+
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      
+      {
+        "text":  "Great work",
+        "user": "Anonymous"
+      } 
+      
+    ]
+  }
+}
